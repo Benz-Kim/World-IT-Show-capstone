@@ -1,0 +1,9 @@
+claim_id,case,claim,source_ids,status,reason,next_evidence
+R01,robotics,Team presented ARVO specifications,W02,supported-as-attributed,Readable deck text contains specifications,Original dated artifact
+R02,robotics,Height is a settled specification,W02|V01,contradicted,1200 mm deck versus 573 mm current page,Dated configuration sheet
+R03,robotics,Robot lowers labor cost to one third,W03,excluded,No traceable full-cost analysis,Comparable site cost records
+R04,robotics,Visual SLAM guarantees deployment reliability,W03|T01,unresolved,Mechanism does not demonstrate product performance,Site reliability logs
+C01,circularity,Digital traceability proves recycling,W01,unresolved,Record integrity does not prove physical processing,Batch custody and processor receipts
+C02,circularity,ECOYA Earth is identical to W01 platform,W01|V03,unresolved,Consumer and business workflow scopes differ,Product and legal-entity mapping
+I01,immersive,Current portfolio verifies all 2023 capabilities,W01|V02,unresolved,Current portfolio is not historical implementation evidence,Archived technical records
+I02,immersive,EONE product specifications verified,V04,excluded,Source retrieval failed,Readable exact product source
